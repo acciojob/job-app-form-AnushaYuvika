@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+form {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+label {
+	display: block;
+	margin-bottom: 10px;
+}
